@@ -1,0 +1,14 @@
+NOVA NARUDZBINA
+Ime i prezime: John Doe
+Adresa: Address 1
+Grad: City
+Broj telefona: 066789123
+['Lord of the Rings (J R R Tolkien) CENA: 750 din', 'The Hunger Games (Susan Collins) CENA: 500 din']
+Datum narudzbine: 27.05.2020. 21:07:22
+NOVA NARUDZBINA
+Ime i prezime: John Doe
+Adresa: Address 1
+Grad: City
+Broj telefona: 066789123
+['Rising Strong (Brene Brown) CENA: 1210 din']
+Datum narudzbine: 27.05.2020. 21:08:10
